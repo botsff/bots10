@@ -1,0 +1,6 @@
+owner=252735890357485588
+prefix ^
+game=oh YEAH | ^play
+stayinchannel=true
+songinstatus=true
+token=NjA1NTIzNTk2NTUwMzQwNjA4.XT95mA.B90XcHDbVZqK-YphFWvGYzj7mfE
